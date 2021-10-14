@@ -17,9 +17,9 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ld20jktt&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dyn20&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ld20jktt&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyn20&theme=vue)
 </hr>
 
 <hr>
@@ -54,4 +54,4 @@
 </hr>
 
 
-<p> ©2021 by ld20jktt (Dyn) </p>
+<p> ©2021 by Dyn </p>
