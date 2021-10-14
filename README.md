@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Le Thi My Duyen! You can call me Duyen or Dyn<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi there👋, I'm Le Thi My Duyen! You can call me Duyen or Dyn<img height="40"></h1>
 <h3 align="center">Just a chicken learns security</h3>
 
 <hr>
