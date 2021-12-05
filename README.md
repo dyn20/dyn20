@@ -47,7 +47,7 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/duyen20102001)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemyduyen272829@gmail.com)
-[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)]()
+[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](https://dyn20.gitbook.io/)
 [![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)]()
 </div>
 
