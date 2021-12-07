@@ -2,9 +2,7 @@
 
 <h3 align="left"><b>What I'm doing:</b></h3>
 
-- 🔭 I’m currently studying at **UIT (University of Information Technology VNU-HCM)**
-
-- 🌱 I’m currently learning about **Information Security**
+- 🔭 I’m currently learning about **Information Security** at **UIT (University of Information Technology VNU-HCM)**
 
 - ⚡ I'm good at nothing, but I'm ready to learn anything.
 
