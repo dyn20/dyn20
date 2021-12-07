@@ -1,7 +1,4 @@
 <h1 align="center">Hi there👋, I'm Le Thi My Duyen! You can call me Duyen or Dyn<img height="40"></h1>
-<h3 align="center">Just a chicken learns security</h3>
-
-<hr>
 
 <h3 align="left"><b>What I'm doing:</b></h3>
 
