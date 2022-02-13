@@ -19,23 +19,6 @@
 
 <hr>
 
-<h3 align="left">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>My github is about:</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
- 
-* CTF: Write up some web challenges.
-
-* PortSwigger: Some labs I have solved
-
-* Some challenges in wargame page
-
-* Project: Any project I have done
-
-* Everthing I have learned I want to save or share
-
-</hr>
-
-<hr>
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
