@@ -8,8 +8,7 @@
 
 <hr>
 
-<h3 align="left">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
+<h3 align="left"><i><b>GitHub Stats</b></i></h3>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dyn20&theme=vue)
